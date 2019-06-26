@@ -11,15 +11,10 @@ In this project, Social media site Twitter is used to analyze National Hockey Le
 
 ![Positive Negative Sentiments-2](https://user-images.githubusercontent.com/31726780/60159181-ed434780-97f2-11e9-9a77-4afcf7c0de00.PNG)
 
-<p align="center">
-  <img>![Team,rank](https://user-images.githubusercontent.com/31726780/60159184-eddbde00-97f2-11e9-88cc-710c0b465c55.png)<img/>
-</p>
-
+![Team,rank](https://user-images.githubusercontent.com/31726780/60159184-eddbde00-97f2-11e9-88cc-710c0b465c55.png)
 
 
 ## Data
-
-This project consists of two data extraction parts which are:
 
 ### Team Names:
 The first part of data extraction is getting the National Hockey League (NHL) team names and rankings from the ESPN website. For this beautifulSoup library was used and 31 team names were extracted and stored in a csv file.
