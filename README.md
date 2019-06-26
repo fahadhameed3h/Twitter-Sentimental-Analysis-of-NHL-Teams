@@ -12,7 +12,7 @@ In this project, Social media site Twitter is used to analyze National Hockey Le
 ![Positive Negative Sentiments-2](https://user-images.githubusercontent.com/31726780/60159181-ed434780-97f2-11e9-9a77-4afcf7c0de00.PNG)
 
 <p align="center">
-  ![Team,rank](https://user-images.githubusercontent.com/31726780/60159184-eddbde00-97f2-11e9-88cc-710c0b465c55.png)
+  <img>![Team,rank](https://user-images.githubusercontent.com/31726780/60159184-eddbde00-97f2-11e9-88cc-710c0b465c55.png)<img/>
 </p>
 
 
