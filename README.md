@@ -13,8 +13,22 @@ In this project, Social media site Twitter is used to analyze National Hockey Le
 
 ![Team,rank](https://user-images.githubusercontent.com/31726780/60159184-eddbde00-97f2-11e9-88cc-710c0b465c55.png)
 
+## Data
+
+This project consists of two data extraction parts which are:
+
+### Team Names:
+The first part of data extraction is getting the National Hockey League (NHL) team names and rankings from the ESPN website. For this beautifulSoup library was used and 31 team names were extracted and stored in a csv file.
+
+### Tweets:
+Second part consists of retrieving Tweets related to NHL teams with hashtag of team names including Author name and date of tweets. Tweepy library was used to get the latest tweets from twitter. Retrieved tweets were stored in separate csv file. The tweets for each team was collected separately to get specific results for each team. Also to get more number of tweets collecting separately helped overcome the API constraint which resulted in retrieval of less number of tweets. For each team 500 tweets were collected which added up to 15500 tweets for 31 teams.
+
 ## Models
 
+### Deep Neural Network
+
 ![4](https://user-images.githubusercontent.com/31726780/60210952-54e2ac80-985e-11e9-8e37-b230e4fb36c7.PNG)
+
+### Naive Bayes Classifier 
 
 ![5](https://user-images.githubusercontent.com/31726780/60210954-54e2ac80-985e-11e9-9c39-c37924d16275.PNG)
