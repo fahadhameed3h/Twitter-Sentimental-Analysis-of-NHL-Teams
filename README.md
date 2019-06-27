@@ -20,7 +20,7 @@ In this project, Social media site Twitter is used to analyze National Hockey Le
 The first part of data extraction is getting the National Hockey League (NHL) team names and rankings from the ESPN website. For this beautifulSoup library was used and 31 team names were extracted and stored in a csv file.
 
 ### Tweets:
-Second part consists of retrieving Tweets related to NHL teams with hashtag of team names including Author name and date of tweets. Tweepy library was used to get the latest tweets from twitter. Retrieved tweets were stored in separate csv file. The tweets for each team was collected separately to get specific results for each team. Also to get more number of tweets collecting separately helped overcome the API constraint which resulted in retrieval of less number of tweets. For each team 500 tweets were collected which added up to 15500 tweets for 31 teams.
+Second part consists of retrieving Tweets related to NHL teams with hashtag of team names including Author name and date of tweets. Tweepy library was used to get the latest tweets from twitter. 
 
 ## Models
 
